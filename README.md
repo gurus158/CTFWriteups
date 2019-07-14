@@ -1,2 +1,2 @@
 # CTFWriteups
-WriteUps of ctf WE played as SCr!ptk!dd!es
+WriteUps of ctf we played as Scr!ptk!dd!es
